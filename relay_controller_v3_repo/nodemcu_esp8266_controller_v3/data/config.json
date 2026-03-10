@@ -1,0 +1,8 @@
+{
+  "relays": [
+    {"name": "Rele 1", "state": false},
+    {"name": "Rele 2", "state": false},
+    {"name": "Rele 3", "state": false},
+    {"name": "Rele 4", "state": false}
+  ]
+}
